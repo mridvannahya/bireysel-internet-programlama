@@ -1,12 +1,22 @@
 h1{
     text-align: center;
-    color: #00f7ff;
+    color: #1c3f41;
     font-family: 'Times New Roman', serif;
     margin-top: 25px;
 }
 p{
    
     color: #0e193d;
+    font-family: 'Times New Roman', serif;
+    margin-top: 25px;
+}
+h2{
+    color: #3155cc;
+    font-family: 'Times New Roman', serif;
+    margin-top: 25px;
+}
+h3{
+    color: #ff9100;
     font-family: 'Times New Roman', serif;
     margin-top: 25px;
 }
